@@ -1,2 +1,2 @@
 # codingbat-python-solutions
-Solutions to python coding excercises on www.codingbat.com
+My solutions to python coding excercises on www.codingbat.com
